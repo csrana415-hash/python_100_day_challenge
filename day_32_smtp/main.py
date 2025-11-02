@@ -1,7 +1,7 @@
 ################day_32
 
 ###smtp --> pre-boundle with python help us to send emain
-###daytime -->is to check date
+###datetime -->is to check date
 
 ##video 245
 ###smtp lib help us to set send these mains
