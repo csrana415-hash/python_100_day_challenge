@@ -12,12 +12,12 @@
 # import smtplib
 #
 # ##for generating password go to gmail and enable twor factor authentication --> generate passowrd --> other --> put app name any thing then copy the pass and pes
-# password="bardhgrmxldndmkd"
-# my_email = "csprogrammer311@gmail.com" ### sender email address
+# password="bardhg"
+# my_email = "cabddd@gmail.com" ### sender email address
 # with smtplib.SMTP("smtp.gmail.com")  as connection:#### address of smtp server
 #     connection.starttls() ### this to secure our email connection over internet
 #     connection.login(user=my_email, password=password)
-#     connection.sendmail(from_addr=my_email, to_addrs="csrana415@gmail.com",
+#     connection.sendmail(from_addr=my_email, to_addrs="csdgs@gmail.com",
 #                         msg="Subject:Hello\n\nhola kaise ho aap")  ### thses \n\n for wring msg
 
 
@@ -46,8 +46,8 @@
 #         # print(one_quote)
 #     with smtplib.SMTP("smtp.gmail.com") as connect:
 #         connect.starttls()
-#         connect.login(user="csprogrammer311@gmail.com", password="bardhgrmxldndmkd")
-#         connect.sendmail(from_addr="csprogrammer311@gmail.com", to_addrs="csrana415@gmail.com", msg=f"Subject:verify current date time\n\n ahh.. its {dt.datetime.now()} \n {one_quote}")
+#         connect.login(user="csgsgs@gmail.com", password="barsgsgfsd")
+#         connect.sendmail(from_addr="cfsagsd@gmail.com", to_addrs="gbsdhsdh@gmail.com", msg=f"Subject:verify current date time\n\n ahh.. its {dt.datetime.now()} \n {one_quote}")
 #
 
 ####### video 248

@@ -4,8 +4,8 @@ import datetime as dt
 import random
 
 ######setiing cridentials
-my_email = "csprogrammer311@gmail.com"
-password = "bardhgrmxldndmkd"
+my_email = "adbd@gmail.com"
+password = "put your generated pass word from gmail"
 
 ## setting receiver perameteres
 check_birth_date = pd.read_csv("birthdays.csv")
